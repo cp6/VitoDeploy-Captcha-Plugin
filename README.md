@@ -4,7 +4,7 @@ A VitoDeploy 4.x plugin that protects the login form with a self-hosted image CA
 
 ## Preview
 
-![VitoDeploy login page protected by the self-hosted CAPTCHA](docs/images/vitodeploy-captcha-login.png)
+<img src="docs/images/vitodeploy-captcha-login.png" alt="VitoDeploy login page protected by the self-hosted CAPTCHA" width="480">
 
 ## Requirements
 

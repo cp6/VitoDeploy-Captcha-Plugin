@@ -2,6 +2,10 @@
 
 A VitoDeploy 4.x plugin that protects the login form with a self-hosted image CAPTCHA powered by [`mews/captcha`](https://github.com/mewebstudio/captcha). It does not call an external CAPTCHA service.
 
+## Preview
+
+![VitoDeploy login page protected by the self-hosted CAPTCHA](docs/images/vitodeploy-captcha-login.png)
+
 ## Requirements
 
 - VitoDeploy 4.x
